@@ -1,0 +1,17 @@
+
+public class Fatorial {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int fatorial = 4;
+		int total = 0;
+		for (int i = 1; i <= fatorial; i ++) {
+			for (int j = 2; j <= i; j++) {
+				total =  i * i;
+				System.out.print(total + " ");
+			}	
+		}
+
+	}
+
+}
