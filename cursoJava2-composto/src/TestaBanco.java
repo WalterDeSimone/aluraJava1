@@ -9,6 +9,7 @@ public class TestaBanco {
 		Conta contaDoPaulo = new Conta();
 		contaDoPaulo.deposita(100);
 		
+		//associa o cliente paulo para a conta contaDoPaulo
 		contaDoPaulo.titular = paulo; //faz referencia a paulo, atribui referencia ao
 										// ao atributo
 		
