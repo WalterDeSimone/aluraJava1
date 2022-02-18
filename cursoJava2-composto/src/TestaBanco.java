@@ -14,7 +14,9 @@ public class TestaBanco {
 										// ao atributo
 		
 		System.out.println(contaDoPaulo.titular.nome);
-		System.out.println(contaDoPaulo.saldo);
+		//System.out.println(contaDoPaulo.saldo);
+		
+		
 	}
 
 }

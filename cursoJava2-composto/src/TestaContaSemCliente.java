@@ -7,7 +7,7 @@ public class TestaContaSemCliente {
 		//Outra forma de criar um cliente(classe), comparar com TesteBanco.java
 		contaDaMarcela.titular = new Cliente();
 		
-		System.out.println(contaDaMarcela.saldo);
+		System.out.println(contaDaMarcela.getSaldo());
 		
 		
 		
