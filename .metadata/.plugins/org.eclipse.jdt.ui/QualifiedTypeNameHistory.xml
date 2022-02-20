@@ -6,4 +6,7 @@
     <fullyQualifiedTypeName name="cursoJava2.Conta"/>
     <fullyQualifiedTypeName name="Cliente"/>
     <fullyQualifiedTypeName name="Conta"/>
+    <fullyQualifiedTypeName name="FuncionarioTeste"/>
+    <fullyQualifiedTypeName name="Funcionario"/>
+    <fullyQualifiedTypeName name="Gerente"/>
 </qualifiedTypeNameHistroy>
