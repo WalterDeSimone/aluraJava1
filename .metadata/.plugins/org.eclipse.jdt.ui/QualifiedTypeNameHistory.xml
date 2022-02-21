@@ -7,6 +7,8 @@
     <fullyQualifiedTypeName name="Cliente"/>
     <fullyQualifiedTypeName name="Conta"/>
     <fullyQualifiedTypeName name="FuncionarioTeste"/>
-    <fullyQualifiedTypeName name="Funcionario"/>
     <fullyQualifiedTypeName name="Gerente"/>
+    <fullyQualifiedTypeName name="ControleBonificacao"/>
+    <fullyQualifiedTypeName name="Funcionario"/>
+    <fullyQualifiedTypeName name="EditorVideo"/>
 </qualifiedTypeNameHistroy>
