@@ -11,4 +11,6 @@
     <fullyQualifiedTypeName name="ControleBonificacao"/>
     <fullyQualifiedTypeName name="Funcionario"/>
     <fullyQualifiedTypeName name="EditorVideo"/>
+    <fullyQualifiedTypeName name="ContaCorrente"/>
+    <fullyQualifiedTypeName name="ContaPoupanca"/>
 </qualifiedTypeNameHistroy>
