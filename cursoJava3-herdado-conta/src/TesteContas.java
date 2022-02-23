@@ -29,6 +29,9 @@ public class TesteContas {
 		c1.setCpf("213.224.854-87");
 		c1.setProfissao("Estudante");
 		
+		cc.saca(100);
+		System.out.println("CC: " + cc.getSaldo());
+		
 		cp.setTitular(c1);
 		
 		System.out.println(cp.getTitular().getNome());

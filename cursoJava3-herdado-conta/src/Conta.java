@@ -42,8 +42,10 @@ public abstract class Conta {
 	public boolean saca(double valor) {
 		if (this.saldo >= valor) {
 			this.saldo -= valor;
+			System.out.println("Transação efetuada com sucesso");
 			return true;
 		} else {
+			System.out.println("Transação nao pode ser excecutada");
 			return false;
 		}
 	}
