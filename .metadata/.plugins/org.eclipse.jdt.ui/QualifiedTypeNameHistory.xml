@@ -4,13 +4,14 @@
     <fullyQualifiedTypeName name="javax.swing.text.StyledEditorKit.BoldAction"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="cursoJava2.Conta"/>
-    <fullyQualifiedTypeName name="Cliente"/>
     <fullyQualifiedTypeName name="Conta"/>
     <fullyQualifiedTypeName name="FuncionarioTeste"/>
-    <fullyQualifiedTypeName name="Gerente"/>
     <fullyQualifiedTypeName name="ControleBonificacao"/>
     <fullyQualifiedTypeName name="Funcionario"/>
-    <fullyQualifiedTypeName name="EditorVideo"/>
     <fullyQualifiedTypeName name="ContaCorrente"/>
     <fullyQualifiedTypeName name="ContaPoupanca"/>
+    <fullyQualifiedTypeName name="Cliente"/>
+    <fullyQualifiedTypeName name="Gerente"/>
+    <fullyQualifiedTypeName name="EditorVideo"/>
+    <fullyQualifiedTypeName name="Designer"/>
 </qualifiedTypeNameHistroy>

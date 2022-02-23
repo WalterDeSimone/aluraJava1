@@ -1,7 +1,7 @@
 
-public class Conta {
+public abstract class Conta {
 	
-	private double saldo;
+	protected double saldo;
 	private int agencia;
 	private int numero;
 	private Cliente titular; //Faz referencia para objeto do tipo cliente
@@ -30,12 +30,14 @@ public class Conta {
 	
 	public Conta(int numero) {
 		this(1667, numero);
-
 	}
-	
+	/*
 	public void deposita(double valor) {
 		this.saldo += valor;
 	}
+	*/
+	
+	public abstract void deposita(double valor);
 	
 	public boolean saca(double valor) {
 		if (this.saldo >= valor) {

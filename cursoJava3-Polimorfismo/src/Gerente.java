@@ -19,7 +19,7 @@ public class Gerente extends Funcionario{
 	}
 	
 	public double getBonificacao () {
-		return super.getBonificacao() + super.getSalario(); //super. indica que vem da classe mae, que nao esta definido nesta classe, retirado o this.
+		return super.getSalario(); //super. indica que vem da classe mae, que nao esta definido nesta classe, retirado o this.
 	}
 
 
