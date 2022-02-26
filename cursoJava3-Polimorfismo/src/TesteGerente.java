@@ -3,6 +3,8 @@ public class TesteGerente {
 	public static void main(String[] args) {
 		Gerente g1 = new Gerente();
 		
+		Autenticavel g2 = new Gerente();
+		
 		g1.setNome("Walter Simoes");
 		g1.setCpf("2232322-11");
 		g1.setSalario(5000.0);

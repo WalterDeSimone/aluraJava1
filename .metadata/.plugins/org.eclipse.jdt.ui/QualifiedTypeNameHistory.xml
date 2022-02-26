@@ -7,11 +7,16 @@
     <fullyQualifiedTypeName name="Conta"/>
     <fullyQualifiedTypeName name="FuncionarioTeste"/>
     <fullyQualifiedTypeName name="ControleBonificacao"/>
-    <fullyQualifiedTypeName name="Funcionario"/>
     <fullyQualifiedTypeName name="ContaCorrente"/>
     <fullyQualifiedTypeName name="ContaPoupanca"/>
     <fullyQualifiedTypeName name="Cliente"/>
-    <fullyQualifiedTypeName name="Gerente"/>
     <fullyQualifiedTypeName name="EditorVideo"/>
     <fullyQualifiedTypeName name="Designer"/>
+    <fullyQualifiedTypeName name="SistemaInterno"/>
+    <fullyQualifiedTypeName name="FuncionarioAutenticavel"/>
+    <fullyQualifiedTypeName name="Administrador"/>
+    <fullyQualifiedTypeName name="Funcionario"/>
+    <fullyQualifiedTypeName name="TesteGerente"/>
+    <fullyQualifiedTypeName name="Gerente"/>
+    <fullyQualifiedTypeName name="Autenticavel"/>
 </qualifiedTypeNameHistroy>
