@@ -7,7 +7,6 @@
     <fullyQualifiedTypeName name="Conta"/>
     <fullyQualifiedTypeName name="FuncionarioTeste"/>
     <fullyQualifiedTypeName name="ControleBonificacao"/>
-    <fullyQualifiedTypeName name="ContaCorrente"/>
     <fullyQualifiedTypeName name="ContaPoupanca"/>
     <fullyQualifiedTypeName name="Cliente"/>
     <fullyQualifiedTypeName name="EditorVideo"/>
@@ -19,4 +18,10 @@
     <fullyQualifiedTypeName name="TesteGerente"/>
     <fullyQualifiedTypeName name="Gerente"/>
     <fullyQualifiedTypeName name="Autenticavel"/>
+    <fullyQualifiedTypeName name="AutenticacaoUtil"/>
+    <fullyQualifiedTypeName name="javax.swing.text.AsyncBoxView"/>
+    <fullyQualifiedTypeName name="Tributavel"/>
+    <fullyQualifiedTypeName name="ContaCorrente"/>
+    <fullyQualifiedTypeName name="SeguroDeVida"/>
+    <fullyQualifiedTypeName name="CalculadorDeImposto"/>
 </qualifiedTypeNameHistroy>
