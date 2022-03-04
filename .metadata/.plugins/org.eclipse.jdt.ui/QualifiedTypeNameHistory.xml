@@ -25,4 +25,6 @@
     <fullyQualifiedTypeName name="SeguroDeVida"/>
     <fullyQualifiedTypeName name="CalculadorDeImposto"/>
     <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+    <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+    <fullyQualifiedTypeName name="MinhaExcecao"/>
 </qualifiedTypeNameHistroy>
