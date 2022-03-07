@@ -4,7 +4,6 @@
     <fullyQualifiedTypeName name="javax.swing.text.StyledEditorKit.BoldAction"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="cursoJava2.Conta"/>
-    <fullyQualifiedTypeName name="Conta"/>
     <fullyQualifiedTypeName name="FuncionarioTeste"/>
     <fullyQualifiedTypeName name="ControleBonificacao"/>
     <fullyQualifiedTypeName name="ContaPoupanca"/>
@@ -21,10 +20,12 @@
     <fullyQualifiedTypeName name="AutenticacaoUtil"/>
     <fullyQualifiedTypeName name="javax.swing.text.AsyncBoxView"/>
     <fullyQualifiedTypeName name="Tributavel"/>
-    <fullyQualifiedTypeName name="ContaCorrente"/>
     <fullyQualifiedTypeName name="SeguroDeVida"/>
     <fullyQualifiedTypeName name="CalculadorDeImposto"/>
     <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
-    <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
     <fullyQualifiedTypeName name="MinhaExcecao"/>
+    <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+    <fullyQualifiedTypeName name="Conta"/>
+    <fullyQualifiedTypeName name="ContaCorrente"/>
+    <fullyQualifiedTypeName name="SaldoInsuficienteException"/>
 </qualifiedTypeNameHistroy>
