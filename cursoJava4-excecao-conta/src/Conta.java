@@ -10,19 +10,31 @@ public abstract class Conta {
 	
 	public Conta(int agencia, int numero) {
 		total ++;
-		if (agencia <= 0) {
-			System.out.println("Numero incorreto de agencia");
-			this.agencia = 1234;
-		} else {
-			this.agencia = agencia;
-		}
 		
-		if (numero <= 0) {
-			System.out.println("Numero incorreto da conta");
-			this.numero = 111111;
-		} else {
-			this.numero = numero;
-		}
+        if(agencia < 1) {
+            throw new IllegalArgumentException("Agencia inválida");
+        }
+
+        if(numero < 1) {
+            throw new IllegalArgumentException("Numero da conta inválido");
+        }
+		
+		
+//		Codigo abaixo foi melhorado com a exceção acima		
+//		
+//		if (agencia <= 0) {
+//			System.out.println("Numero incorreto de agencia");
+//			this.agencia = 1234;
+//		} else {
+//			this.agencia = agencia;
+//		}
+//		
+//		if (numero <= 0) {
+//			System.out.println("Numero incorreto da conta");
+//			this.numero = 111111;
+//		} else {
+//			this.numero = numero;
+//		}
 		
 		System.out.println("Estou criando uma agencia = " + this.agencia);
 		System.out.println("Estou criando uma conta = " + this.numero);

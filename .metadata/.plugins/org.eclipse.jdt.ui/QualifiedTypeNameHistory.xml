@@ -28,4 +28,7 @@
     <fullyQualifiedTypeName name="Conta"/>
     <fullyQualifiedTypeName name="ContaCorrente"/>
     <fullyQualifiedTypeName name="SaldoInsuficienteException"/>
+    <fullyQualifiedTypeName name="Conexao"/>
+    <fullyQualifiedTypeName name="java.lang.AutoCloseable"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalStateException"/>
 </qualifiedTypeNameHistroy>
